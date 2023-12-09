@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">jobshhet5</string>
+    <string name="contoh" />
+    <string name="pindahactivity">pindahactivity</string>
+    <string name="pindah_activity">pindah_activity</string>
+    <string name="activity_baru">activity baru</string>
+    <string name="halaman_data">Halaman data</string>
+</resources>
